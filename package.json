@@ -11,7 +11,7 @@
         "ethereumjs-util": "^7.0.3",
         "flex-contract": "^2.2.2",
         "flex-ether": "^1.7.1",
-        "lodash": "^4.17.19",
+        "lodash": "^4.17.21",
         "solc": "^0.7.0",
         "soluble": "^1.1.1"
     }
